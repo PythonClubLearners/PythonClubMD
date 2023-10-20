@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "src",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }

@@ -23,19 +23,24 @@
 2. Нажимаете зеленную кнопку `Code`
 
 ![[Pasted image 20231020231258.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231258.png)
+
 3. Скачиваете репозиторий нажав на `Download ZIP`
 
-![[Pasted image 20231020231408.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%20231020231408.png)
+![[Pasted image 20231020231408.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231408.png)
+
 4. Распакуйте скачанный архив (репозиторий), полученную папку положите в место где вы хотите хранить эти файлы
 
-![[Pasted image 20231020231546.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%20231020231546.png)
+![[Pasted image 20231020231546.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231546.png)
+
 5. Запускаете obsidian
 6. Нажимаете "Открыть папку как хранилище"
 
-![[Pasted image 20231020231712.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%20231020231712.png)
+![[Pasted image 20231020231712.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231712.png)
+
 7. Выбираете скачанную папку
 
-![[Pasted image 20231020232129.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%20231020232129.png)
+![[Pasted image 20231020232129.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020232129.png)
+
 
 8. Если у вас есть git, вы можете нажать кнопку "Довериться автору и включить плагины" - это позволит вашему репозиторию получать обновления без необходимости повторять шаги выше (Автоматически или `shift+ctrl+*` )
 

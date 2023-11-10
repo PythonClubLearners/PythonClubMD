@@ -9,7 +9,7 @@
 
 [[Задания/Дополнительные задания/README|Список дополнительных заданий]]
 
-
+[[Полезные ссылки]]
 
 ----------
 
@@ -18,11 +18,16 @@
 
 ### Как это сделать?
 
-1. Установить Obsidian
+1. Установить Obsidian (https://obsidian.md/download)
 2. Скачать репозиторий
-		Способ через гит (будет автосинхронизация, но необходимо скачать гит):
+		Способ через гит (будет автосинхронизация, но необходимо скачать гит. https://git-scm.com/downloads):
 	1. Открываете консоль в месте где вы хотите хранить файлы
 	2. Вводите команду `git clone https://github.com/PythonClubLearners/PythonClubMD.git`
+		Способ через GitHub Desktop (предыдущая ссылка +  https://desktop.github.com/):
+	1. Нажимаете зеленную кнопку `Code`
+	
+	![[Pasted image 20231020231258.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231258.png)
+	2. Нажимаете  `Open with GitHub Desktop`
 		Способ через скачивание архива:
 	1. Нажимаете зеленную кнопку `Code`
 	
@@ -41,7 +46,7 @@
 
 ![[Pasted image 20231020231712.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020231712.png)
 
-5. Выбираете скачанную папку
+5. Выбираете папку куда вы скачали репозиторий
 
 ![[Pasted image 20231020232129.png]](https://github.com/Mikan-DS/PythonClubMD/blob/master/src/Pasted%20image%2020231020232129.png)
 
